@@ -1,3 +1,8 @@
 save_data
 scripts/__pycache__
 apikey.txt
+
+*.swp
+*.pyc
+stockList.txt
+__pycache__/
